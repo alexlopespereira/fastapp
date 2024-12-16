@@ -1,8 +1,8 @@
 # Deploy Button
-domains:
-- domain: memorito.com.br
-  type: PRIMARY
-  zone: memorito.com.br
+#domains:
+#- domain: memorito.com.br
+#  type: PRIMARY
+#  zone: memorito.com.br
 name: fastapp
 region: nyc
 services:
