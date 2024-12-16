@@ -3,7 +3,7 @@
 #- domain: memorito.com.br
 #  type: PRIMARY
 #  zone: memorito.com.br
-name: fastapp
+#name: fastapp
 region: nyc
 services:
 - environment_slug: python
