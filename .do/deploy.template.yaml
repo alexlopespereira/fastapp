@@ -1,8 +1,8 @@
 # Deploy Button
 domains:
-- domain: mrcartoonsters.tk
+- domain: memorito.com.br
   type: PRIMARY
-  zone: mrcartoonsters.tk
+  zone: memorito.com.br
 name: fastapp
 region: nyc
 services:
