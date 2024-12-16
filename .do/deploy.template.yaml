@@ -10,7 +10,7 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: mrcartoonster/fastapp
+    repo: alexlopespereira/fastapp
   http_port: 8080
   instance_count: 1
   instance_size_slug: basic-xxs
